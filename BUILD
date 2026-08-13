@@ -16,7 +16,7 @@
 exports_files(glob(["requirements*"]) + [
     "configure",
     "configure.py",
-    "ACKNOWLEDGEMENTS",
+    "ACKNOWLEDGEMENT",
     "AUTHORS",
     "LICENSE",
 ])
